@@ -1,0 +1,42 @@
+_repo: The-Record-of-a-Quaker-Conscience-Cyrus-Pringle-s-DiaryWith-an-Introduction-by-Rufus-M.-Jones_16088
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Jones, Rufus M. (Rufus Matthew)
+    alias: Jones, Rufus Matthew
+    birthdate: 1863
+    deathdate: 1948
+    gutenberg_agent_id: '6478'
+    url: http://www.gutenberg.org/2009/agents/6478
+    wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pringle, Cyrus G. (Cyrus Guernsey)
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '6477'
+    url: http://www.gutenberg.org/2009/agents/6477
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Pringle
+description: Cyrus G. Pringle was drafted for service in the Union Army on July 13,
+  1863. He and others were later released from service upon approval from President
+  Lincoln.
+gutenberg_issued: '2005-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Draft'
+- !lcc 'E456'
+- !lcc 'BX'
+- !lcsh 'Society of Friends'
+title: 'The Record of a Quaker Conscience, Cyrus Pringle''s Diary
+
+  With an Introduction by Rufus M. Jones'
+url: http://www.gutenberg.org/ebooks/16088
